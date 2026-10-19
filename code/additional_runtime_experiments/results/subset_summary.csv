@@ -1,0 +1,2 @@
+c,seed,n_sets,wall_full_s,wall_idremoved_s,programs_full,programs_idremoved,optimum_full,optimum_idremoved,greedy,top_singleton,random_mean,greedy_frac,top_singleton_frac,random_frac
+1.0,70,36,105.72,62.65,36,21,0.09546,0.09546,0.09546,0.050485,0.021213,1.0,0.5289,0.2222
